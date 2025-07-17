@@ -1,0 +1,2 @@
+WhiteSource: new vulnerabilities were found in this commit. If you want to review the results and prevent the commit from being committed, please close the file.
+If you want to proceed and commit the changes anyway type “Y” and close this file: 

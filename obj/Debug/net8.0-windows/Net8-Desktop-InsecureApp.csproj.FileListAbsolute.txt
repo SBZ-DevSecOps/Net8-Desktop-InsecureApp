@@ -1,0 +1,360 @@
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Net8-Desktop-InsecureApp.exe
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Net8-Desktop-InsecureApp.deps.json
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Net8-Desktop-InsecureApp.runtimeconfig.json
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Net8-Desktop-InsecureApp.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Net8-Desktop-InsecureApp.pdb
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\AntiXssLibrary.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\HtmlSanitizationLibrary.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\AutoMapper.Net4.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\AutoMapper.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\AWSSDK.S3.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\CsvHelper.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\DotNetZip.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\FluentValidation.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Scripting.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Data.Edm.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Data.OData.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Net.Http.Headers.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Npgsql.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\RabbitMQ.Client.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Remotion.Linq.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\RestSharp.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Serilog.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\StackExchange.Redis.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\System.Interactive.Async.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\System.Spatial.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\YamlDotNet.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libuv.so
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libuv.so
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libuv.so
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libuv.so
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\libuv.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\libuv.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\libuv.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.csproj.AssemblyReference.cache
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\App.g.cs
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp_MarkupCompile.cache
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp_MarkupCompile.lref
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.g.resources
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.AssemblyInfoInputs.cache
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.AssemblyInfo.cs
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.csproj.CoreCompileInputs.cache
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Des.BB4E0769.Up2Date
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\refint\Net8-Desktop-InsecureApp.dll
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.pdb
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.genruntimeconfig.cache
+D:\___POCs_SAST\AppsToTest\AppSec\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\ref\Net8-Desktop-InsecureApp.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Net8-Desktop-InsecureApp.exe
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Net8-Desktop-InsecureApp.deps.json
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Net8-Desktop-InsecureApp.runtimeconfig.json
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Net8-Desktop-InsecureApp.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Net8-Desktop-InsecureApp.pdb
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\AntiXssLibrary.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\HtmlSanitizationLibrary.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\AutoMapper.Net4.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\AutoMapper.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\AWSSDK.S3.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\CsvHelper.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\DotNetZip.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\FluentValidation.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Scripting.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Data.Edm.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Data.OData.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Microsoft.Net.Http.Headers.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Npgsql.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\RabbitMQ.Client.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Remotion.Linq.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\RestSharp.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\Serilog.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\StackExchange.Redis.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\System.Interactive.Async.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\System.Spatial.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\YamlDotNet.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\de\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\es\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\fr\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\it\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ja\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ko\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\ru\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hans\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\zh-Hant\System.Spatial.resources.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libuv.so
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libuv.so
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libuv.so
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libuv.so
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\libuv.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\libuv.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\libuv.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.csproj.AssemblyReference.cache
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\App.g.cs
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp_MarkupCompile.cache
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp_MarkupCompile.lref
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.g.resources
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.AssemblyInfoInputs.cache
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.AssemblyInfo.cs
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.csproj.CoreCompileInputs.cache
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Des.BB4E0769.Up2Date
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\refint\Net8-Desktop-InsecureApp.dll
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.pdb
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\Net8-Desktop-InsecureApp.genruntimeconfig.cache
+D:\___POCs_SAST\AppsToTest\AppSec - ToScan\Net8-Desktop-InsecureApp\obj\Debug\net8.0-windows\ref\Net8-Desktop-InsecureApp.dll

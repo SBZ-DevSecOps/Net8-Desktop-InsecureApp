@@ -1,0 +1,135 @@
+﻿<Window x:Class="Net8_Desktop_InsecureApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Net8_Desktop_InsecureApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <!-- SQL Injection Tab -->
+            <TabItem Header="SQL Injection">
+                <StackPanel Margin="10">
+                    <Label Content="Username:"/>
+                    <TextBox x:Name="txtUsername" Width="200" HorizontalAlignment="Left"/>
+                    <Label Content="Password:"/>
+                    <TextBox x:Name="txtPassword" Width="200" HorizontalAlignment="Left"/>
+                    <Button x:Name="btnLogin" Content="Login" Width="100" HorizontalAlignment="Left" 
+                            Margin="0,10,0,0" Click="btnLogin_Click"/>
+                </StackPanel>
+            </TabItem>
+
+            <!-- Command Injection Tab -->
+            <TabItem Header="Command Injection">
+                <StackPanel Margin="10">
+                    <Label Content="Enter Command:"/>
+                    <TextBox x:Name="txtCommand" Width="300" HorizontalAlignment="Left"/>
+                    <Button x:Name="btnExecute" Content="Execute" Width="100" HorizontalAlignment="Left" 
+                            Margin="0,10,0,0" Click="btnExecute_Click"/>
+                </StackPanel>
+            </TabItem>
+
+            <!-- XXE Tab -->
+            <TabItem Header="XXE Injection">
+                <StackPanel Margin="10">
+                    <Label Content="XML Input:"/>
+                    <TextBox x:Name="txtXmlInput" Width="400" Height="100" HorizontalAlignment="Left" 
+                             TextWrapping="Wrap" AcceptsReturn="True"/>
+                    <Button x:Name="btnParseXML" Content="Parse XML" Width="100" HorizontalAlignment="Left" 
+                            Margin="0,10,0,0" Click="btnParseXML_Click"/>
+                </StackPanel>
+            </TabItem>
+
+            <!-- Deserialization Tab -->
+            <TabItem Header="Unsafe Deserialization">
+                <StackPanel Margin="10">
+                    <Label Content="Base64 Serialized Data:"/>
+                    <TextBox x:Name="txtSerializedData" Width="400" Height="100" HorizontalAlignment="Left" 
+                             TextWrapping="Wrap"/>
+                    <Button x:Name="btnDeserialize" Content="Deserialize" Width="100" HorizontalAlignment="Left" 
+                            Margin="0,10,0,0" Click="btnDeserialize_Click"/>
+                </StackPanel>
+            </TabItem>
+
+            <!-- Path Traversal Tab -->
+            <TabItem Header="Path Traversal">
+                <StackPanel Margin="10">
+                    <Label Content="File Name:"/>
+                    <TextBox x:Name="txtFileName" Width="300" HorizontalAlignment="Left"/>
+                    <Button x:Name="btnReadFile" Content="Read File" Width="100" HorizontalAlignment="Left" 
+                            Margin="0,10,0,0" Click="btnReadFile_Click"/>
+                    <TextBox x:Name="txtFileContent" Width="400" Height="150" HorizontalAlignment="Left" 
+                             Margin="0,10,0,0" TextWrapping="Wrap" IsReadOnly="True"/>
+                </StackPanel>
+            </TabItem>
+
+            <!-- SSRF Tab -->
+            <TabItem Header="SSRF">
+                <StackPanel Margin="10">
+                    <Label Content="URL:"/>
+                    <TextBox x:Name="txtUrl" Width="400" HorizontalAlignment="Left"/>
+                    <Button x:Name="btnFetchUrl" Content="Fetch URL" Width="100" HorizontalAlignment="Left" 
+                            Margin="0,10,0,0" Click="btnFetchUrl_Click"/>
+                    <TextBox x:Name="txtResult" Width="400" Height="150" HorizontalAlignment="Left" 
+                             Margin="0,10,0,0" TextWrapping="Wrap" IsReadOnly="True"/>
+                </StackPanel>
+            </TabItem>
+
+            <!-- Code Injection Tab -->
+            <TabItem Header="Code Injection">
+                <StackPanel Margin="10">
+                    <Label Content="C# Expression:"/>
+                    <TextBox x:Name="txtExpression" Width="300" HorizontalAlignment="Left"/>
+                    <Button x:Name="btnEvaluate" Content="Evaluate" Width="100" HorizontalAlignment="Left" 
+                            Margin="0,10,0,0" Click="btnEvaluate_Click"/>
+                </StackPanel>
+            </TabItem>
+
+            <!-- XSS Tab -->
+            <TabItem Header="XSS">
+                <StackPanel Margin="10">
+                    <Label Content="HTML Input:"/>
+                    <TextBox x:Name="txtHtmlInput" Width="400" Height="50" HorizontalAlignment="Left" 
+                             TextWrapping="Wrap"/>
+                    <Button x:Name="btnDisplayHtml" Content="Display HTML" Width="120" HorizontalAlignment="Left" 
+                            Margin="0,10,0,0" Click="btnDisplayHtml_Click"/>
+                    <WebBrowser x:Name="webBrowser" Width="400" Height="200" HorizontalAlignment="Left" 
+                               Margin="0,10,0,0"/>
+                </StackPanel>
+            </TabItem>
+
+            <!-- Admin Access Tab -->
+            <TabItem Header="Hardcoded Credentials">
+                <StackPanel Margin="10">
+                    <Label Content="Admin Password:"/>
+                    <PasswordBox x:Name="txtAdminPassword" Width="200" HorizontalAlignment="Left"/>
+                    <Button x:Name="btnValidateAdmin" Content="Validate Admin" Width="120" HorizontalAlignment="Left" 
+                            Margin="0,10,0,0" Click="btnValidateAdmin_Click"/>
+                </StackPanel>
+            </TabItem>
+
+            <!-- File Operations Tab -->
+            <TabItem Header="File Operations">
+                <StackPanel Margin="10">
+                    <Label Content="Save File Name:"/>
+                    <TextBox x:Name="txtSaveFileName" Width="300" HorizontalAlignment="Left"/>
+                    <Label Content="Content:"/>
+                    <TextBox x:Name="txtSaveContent" Width="400" Height="100" HorizontalAlignment="Left" 
+                             TextWrapping="Wrap" AcceptsReturn="True"/>
+                    <Button x:Name="btnSaveFile" Content="Save File" Width="100" HorizontalAlignment="Left" 
+                            Margin="0,10,0,0" Click="btnSaveFile_Click"/>
+                </StackPanel>
+            </TabItem>
+
+            <!-- HTTPS Tab -->
+            <TabItem Header="Certificate Bypass">
+                <StackPanel Margin="10">
+                    <Label Content="HTTPS Request Demo"/>
+                    <Button x:Name="btnHttpsRequest" Content="Make Insecure HTTPS Request" Width="200" 
+                            HorizontalAlignment="Left" Margin="0,10,0,0" Click="btnHttpsRequest_Click"/>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

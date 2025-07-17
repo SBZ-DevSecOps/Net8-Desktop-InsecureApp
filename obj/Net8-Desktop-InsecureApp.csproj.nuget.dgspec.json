@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\___POCs_SAST\\AppsToTest\\AppSec - ToScan\\Net8-Desktop-InsecureApp\\Net8-Desktop-InsecureApp.csproj": {}
+  },
+  "projects": {
+    "D:\\___POCs_SAST\\AppsToTest\\AppSec - ToScan\\Net8-Desktop-InsecureApp\\Net8-Desktop-InsecureApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\___POCs_SAST\\AppsToTest\\AppSec - ToScan\\Net8-Desktop-InsecureApp\\Net8-Desktop-InsecureApp.csproj",
+        "projectName": "Net8-Desktop-InsecureApp",
+        "projectPath": "D:\\___POCs_SAST\\AppsToTest\\AppSec - ToScan\\Net8-Desktop-InsecureApp\\Net8-Desktop-InsecureApp.csproj",
+        "packagesPath": "C:\\Users\\Stephane_BELKHERAZ\\.nuget\\packages\\",
+        "outputPath": "D:\\___POCs_SAST\\AppsToTest\\AppSec - ToScan\\Net8-Desktop-InsecureApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stephane_BELKHERAZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://frnug01.stago.grp/repository/nuget.org-proxyV3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "AntiXSS": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[2.16.3, )"
+            },
+            "DotNetZip": {
+              "target": "Package",
+              "version": "[1.10.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Scripting": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "Microsoft.Data.OData": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[105.2.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[0.86.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
